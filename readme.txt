@@ -21,3 +21,6 @@ then the program should prompt to press <ENTER> to exit.
 **Errors, bugs, or problems can be reported to the owner for debugging, fixing, or improvement.
 ***Not all text symbols are considered yet.
 ****A screenshot is attached for the sample run of simpleSentenceCheck.exe (samplerun.png)
+
+Sample Input: i love potatoes!i also love fries!
+Output: I love potatoes! I also love fries!
